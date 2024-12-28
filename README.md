@@ -50,5 +50,5 @@ The classification is based on this criteria:
 - Half Lunges: One of the knees is a little bent (115 degrees to 145 degrees) and the other knees is a little straight (120 to 180 degrees).
 
 <video controls>
-  <source src="./asset/video-preview-2.mp4" type="video/mp4">
+  <source src="./asset/video-preview-2.mp4" type="video/mp4" />
 </video>
