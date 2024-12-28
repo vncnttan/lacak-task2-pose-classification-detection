@@ -1,2 +1,4 @@
 mediapipe==0.10.5
 protobuf==3.20.*
+numpy==1.26.4
+opencv-python==4.90.0.80
